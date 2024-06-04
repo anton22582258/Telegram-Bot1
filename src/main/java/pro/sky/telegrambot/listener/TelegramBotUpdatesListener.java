@@ -76,6 +76,4 @@ public class TelegramBotUpdatesListener implements UpdatesListener {
                 }
         );
     }
-
-
 }
